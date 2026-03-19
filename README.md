@@ -111,23 +111,21 @@ power bi file.pbix
 
 ## 🏗️ Project Architecture
 
-Raw CSV Data    
-Python (Data Cleaning & EDA)  
-MYSQL Database 
-SQL Analysis  
-Power BI Dashboard
+Raw CSV Data ➡️ Python (Data Cleaning & EDA) ➡️ MySQL Database ➡️ SQL Analysis ➡️ Power BI Dashboard
 
 The project follows a structured data workflow where raw CSV data is first processed using Python for data cleaning and exploratory data analysis (EDA). The cleaned data is then stored in a MySQL database for efficient management. SQL is used to perform detailed data analysis, and finally, insights are visualized using Power BI dashboards.
 
 ## 🔄 Project Pipeline
 
-Traffic Dataset  
-       
-Data Preprocessing (Python)  
-
+Traffic Dataset
+     ↓
+Data Preprocessing (Python)
+     ↓
 Database Storage (MySQL)
-
-Visualization(Power BI)
+     ↓
+Data Analysis (SQL)
+     ↓
+Visualization (Power BI)
 
 ## 📌 Tags
 
