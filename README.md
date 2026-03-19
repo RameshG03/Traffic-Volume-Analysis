@@ -112,29 +112,29 @@ power bi file.pbix
 ## 🏗️ Project Architecture
 
 Raw CSV Data   
-     ⬇️  
+       ⬇️  
 
 Python (Data Cleaning & EDA)  
-     ⬇️  
+       ⬇️  
 
 MYSQL Database  
-     ⬇️  
+       ⬇️  
 
 SQL Analysis
-  
-     ⬇️  
+       ⬇️  
+       
 Power BI Dashboard
 
 ## 🔄 Project Pipeline
 
 Traffic Dataset  
-     ⬇️  
+       ⬇️  
 
 Data Preprocessing (Python)  
-     ⬇️  
+       ⬇️  
 
 Database Storage (MySQL)  
-     ⬇️  
+       ⬇️  
 
 Visualization(Power BI)
 
