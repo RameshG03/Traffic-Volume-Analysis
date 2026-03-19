@@ -102,7 +102,8 @@ Open Power BI file:
 power bi file.pbix
 
 ---
-📅 Weekly Project Progress
+
+## 📅 Weekly Project Progress
 
 Week 1 → Data Collection & Understanding
 
