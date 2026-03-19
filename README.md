@@ -94,3 +94,9 @@ Open Power BI file:
 power bi file.pbix
 
 ---
+
+Run SQL file:
+SQL.sql
+
+Open Power BI file:
+power bi file.pbix
