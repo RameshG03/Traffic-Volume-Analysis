@@ -139,5 +139,21 @@ Visualization (Power BI)
 
 
 📌 Tags
+
 Data Analytics | Python | SQL | Power BI | Traffic Analysis | Smart City
+
+---
+
+## 📂 Dataset  
+
+This project uses three datasets:
+
+- Public Transport Delay Log  
+- Signal Timing Configuration  
+- Traffic Volume Log  
+
+These datasets were integrated to build a comprehensive traffic analysis system.
+
+---
+
 
