@@ -94,21 +94,3 @@ Open Power BI file:
 power bi file.pbix
 
 ---
-
-## 📅 Weekly Project Progress  
-
-- Week 1 → Data Collection & Understanding  
-- Week 2 → Data Cleaning & Preprocessing  
-- Week 3 → Python EDA & SQL Integration  
-- Week 4 → Power BI Dashboard Development  
-
----
-
-## 🏗️ Project Architecture  
-
-
-# Install dependencies
-pip install pandas numpy matplotlib seaborn sqlalchemy pymysql
-
-# Run Python script
-python PYTHON.py
