@@ -118,13 +118,21 @@ The project follows a structured data workflow where raw CSV data is first proce
 ## 🔄 Project Pipeline
 
 Traffic Dataset
+
      ↓
+
 Data Preprocessing (Python)
+
      ↓
+
 Database Storage (MySQL)
+
      ↓
+
 Data Analysis (SQL)
+
      ↓
+
 Visualization (Power BI)
 
 ## 📌 Tags
