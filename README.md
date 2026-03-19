@@ -81,17 +81,23 @@ An interactive dashboard was developed to visualize:
 
 ## 🚀 How to Run the Project  
 
-## Clone repository
-'''
+Clone repository
+
+
 git clone https://github.com/yoursname/Traffic-Volume-Analysis.git
 
-## Run SQL file:
+
+Run SQL file:
+
 
 SQL.sql
 
-## Open Power BI file:
+
+Open Power BI file:
+
 
 power bi file.pbix
+
 
 ---
 
@@ -107,41 +113,25 @@ power bi file.pbix
 ## 🏗️ Project Architecture
 
 Raw CSV Data
-
-     ↓
-
+     ⬇
 Python (Data Cleaning & EDA)
-
-     ↓
-
+     ⬇
 MySQL Database
-
-     ↓
-
+     ⬇
 SQL Analysis
-
-     ↓
-
+     ⬇
 Power BI Dashboard
 
 ## 🔄 Project Pipeline
 
 Traffic Dataset
-
-     ↓
-
+     ⬇
 Data Preprocessing (Python)
-
-     ↓
-
+     ⬇
 Database Storage (MySQL)
-
-     ↓
-
+     ⬇
 Data Analysis (SQL)
-
-     ↓
-
+     ⬇
 Visualization (Power BI)
 
 
