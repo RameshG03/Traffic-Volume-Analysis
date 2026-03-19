@@ -79,22 +79,27 @@ An interactive dashboard was developed to visualize:
 
 ---
 
-## 🚀 How to Run the Project  
+## 🚀 How to Run the Project
 
-1. Clone repository
+### Clone repository
+```bash
+git clone https://github.com/yourusername/customer-360-retail-analysis.git
+```
 
-git clone https://github.com/yoursname/Traffic-Volume-Analysis.git
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
 
-2. Run SQL file:
-
+### Run SQL file
+```sql
 SQL.sql
+```
 
-3. Open Power BI file:
-
+### Open Power BI file
+```text
 power bi file.pbix
-
----
-
+```
 ## 📅 Weekly Project Progress  
 
 - Week 1 → Data Collection & Understanding  
