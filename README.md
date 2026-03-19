@@ -124,3 +124,19 @@ MySQL Database
 SQL Analysis
      ↓
 Power BI Dashboard
+
+🔄 Project Pipeline
+
+Traffic Dataset
+     ↓
+Data Preprocessing (Python)
+     ↓
+Database Storage (MySQL)
+     ↓
+Data Analysis (SQL)
+     ↓
+Visualization (Power BI)
+
+📌 Tags
+
+Data Analytics | Python | SQL | Power BI | Traffic Analysis | Smart City
