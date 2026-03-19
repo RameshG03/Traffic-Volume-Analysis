@@ -113,3 +113,14 @@ power bi file.pbix
 - Week 4 → Power BI Dashboard Development  
 
 ---
+
+🏗️ Project Architecture
+Raw CSV Data
+     ↓
+Python (Data Cleaning & EDA)
+     ↓
+MySQL Database
+     ↓
+SQL Analysis
+     ↓
+Power BI Dashboard
