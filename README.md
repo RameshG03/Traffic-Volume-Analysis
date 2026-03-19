@@ -123,15 +123,16 @@ power bi file.pbix
 
 ## 🔄 Project Pipeline
 
--Traffic Dataset
+Traffic Dataset  
+🟦 ⬇️  
 
--Data Preprocessing (Python) 
+Data Preprocessing (Python)  
+🟦 ⬇️  
 
--Database Storage (MySQL) 
+Database Storage (MySQL)  
+🟦 ⬇️  
 
--Data Analysis (SQL) 
-
--Visualization (Power BI)
+Visualization(Power BI)
 
 ## 📌 Tags
 
