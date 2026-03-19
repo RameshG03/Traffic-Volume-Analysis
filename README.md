@@ -140,4 +140,4 @@ Visualization (Power BI)
 
 📌 Tags
 
-Data Analytics | Python | SQL | Power BI | Traffic Analysis | Smart City
+Data Analytics | Python | SQL | Power BI 
